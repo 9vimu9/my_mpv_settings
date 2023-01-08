@@ -6,6 +6,6 @@
 
 `mkdir ~/.config/mpv`
 
-`vim mpv.conf`
+`vim ~/.config/mpv/mpv.conf`
 
-`vim input.conf`
+`vim ~/.config/mpv/input.conf`
